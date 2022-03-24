@@ -1,0 +1,9 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@import 'floating-vue/dist/style.css';
+
+body {
+    font-family: 'Nunito', sans-serif;
+}
